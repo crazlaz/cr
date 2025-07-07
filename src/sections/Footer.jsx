@@ -12,7 +12,7 @@ const Footer = () => {
             <div className='container mx-auto flex flex-col md:flex-row justify-between items-center'>
                 {/* Brand */}
                 <h1 className='text-xl md:text-2xl font-bold'>
-                    MS <span className='text-yellow-500 italic'>Structure</span>
+                Atlas<span className='text-yellow-500 italic'>Construction</span>
                 </h1>
                 
                 {/* Links */}
@@ -43,7 +43,7 @@ const Footer = () => {
 
                 {/* Copyright */}
                 <p className='text-sm mt-4 md:mt-0'>
-                    &copy; {new Date().getFullYear()} MS Structure. All rights reserved.
+                    &copy; {new Date().getFullYear()} Atlas Construction. All rights reserved.
                 </p>
             </div>
 
