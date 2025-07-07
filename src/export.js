@@ -27,12 +27,13 @@ export const allservices = [
     about:
       "Comprehensive construction solutions, from project planning to execution, ensuring high-quality and timely completion.",
   },
-  {
-    icon: design,
-    title: "Design & Planning",
-    about:
-      "Professional design and planning services to create efficient and innovative spaces tailored to client needs.",
+    {
+    icon: support,
+  title: "Waste Removal",
+  about:
+    "Reliable waste removal services to keep your construction site clean, compliant, and efficient from start to finish.",
   },
+
   {
     icon: document,
     title: "Documentation",
@@ -46,13 +47,12 @@ export const allservices = [
       "Creative interior design services to craft comfortable and visually stunning spaces that reflect individual style.",
   },
   {
-    icon: support,
-    title: "Customer Support",
+    icon: design,
+    title: "Design & Planning",
     about:
-      "Dedicated customer support to assist with inquiries, provide updates, and ensure a smooth project experience from start to finish.",
+      "Professional design and planning services to create efficient and innovative spaces tailored to client needs.",
   },
-];
-
+]
 
 export const planning = [
   {

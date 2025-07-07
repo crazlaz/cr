@@ -21,7 +21,7 @@ const Contact = () => {
             form.current.reset();
         })
         .catch((error) => {
-            console.error(error.text);
+            console.error(error.text,error);
             alert("❌ Failed to send message. Please try again.");
         });
     };
